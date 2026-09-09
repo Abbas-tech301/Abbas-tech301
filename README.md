@@ -7,6 +7,16 @@ I work with cloud infrastructure, CI/CD pipelines, containerization, and DevOps 
 ---
 
 ## 🚀 About Me
+
+- 💻 Aspiring DevOps Engineer
+- ☁️ Working with Azure and DigitalOcean
+- 🐳 Docker & containerization
+- 🔄 CI/CD with Azure DevOps and GitHub Actions
+- 🏗️ Infrastructure as Code with Terraform
+- ⚙️ Automation with Ansible
+- 🌳 Git & GitHub
+- ☸️ Learning and working with Kubernetes
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
@@ -27,12 +37,3 @@ I work with cloud infrastructure, CI/CD pipelines, containerization, and DevOps 
 
 ### 🐧 Operating System
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-- 💻 Aspiring DevOps Engineer
-- ☁️ Working with Azure and DigitalOcean
-- 🐳 Docker & containerization
-- 🔄 CI/CD with Azure DevOps and GitHub Actions
-- 🏗️ Infrastructure as Code with Terraform
-- ⚙️ Automation with Ansible
-- 🌳 Git & GitHub
-- ☸️ Learning and working with Kubernetes
