@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abbas Haider 👋
 
-<!--
-**Abbas-tech301/Abbas-tech301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Associate DevOps Engineer | Cloud | CI/CD | Automation
 
-Here are some ideas to get you started:
+I work with cloud infrastructure, CI/CD pipelines, containerization, and DevOps tools to build and maintain reliable deployment environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Associate DevOps Engineer
+- ☁️ Working with Azure and DigitalOcean
+- 🐳 Docker & containerization
+- 🔄 CI/CD with Azure DevOps and GitHub Actions
+- 🏗️ Infrastructure as Code with Terraform
+- ⚙️ Automation with Ansible
+- 🌳 Git & GitHub
+- ☸️ Learning and working with Kubernetes
