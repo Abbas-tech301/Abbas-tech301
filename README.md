@@ -8,7 +8,7 @@ I work with cloud infrastructure, CI/CD pipelines, containerization, and DevOps 
 
 ## 🚀 About Me
 
-- 💻 Associate DevOps Engineer
+- 💻 Aspiring DevOps Engineer
 - ☁️ Working with Azure and DigitalOcean
 - 🐳 Docker & containerization
 - 🔄 CI/CD with Azure DevOps and GitHub Actions
