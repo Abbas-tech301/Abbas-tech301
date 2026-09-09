@@ -1,6 +1,6 @@
 # Hi, I'm Abbas Haider 👋
 
-### Associate DevOps Engineer | Cloud | CI/CD | Automation
+### Aspiring DevOps Engineer | Cloud | CI/CD | Automation
 
 I work with cloud infrastructure, CI/CD pipelines, containerization, and DevOps tools to build and maintain reliable deployment environments.
 
